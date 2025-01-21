@@ -80,7 +80,6 @@ PLATFORMS
 DEPENDENCIES
   activerecord (~> 6)
   byebug
-  guard (~> 2.19)
   guard-rspec
   rspec (~> 3.0)
   sqlite3 (~> 1.4)
